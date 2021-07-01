@@ -1,1 +1,1 @@
-# 1082-Data-Structure-Graph-Data-Manipulation-Find-shortest-paths-by-Dijkstra
+# 1082-Data-Structure-Graph-Data-Manipulation-Find-Shortest-Paths-By-Dijkstra
